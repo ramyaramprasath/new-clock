@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@800&display=swap');
+body
+{
+      background-image: url("http://wallpaperset.com/w/full/d/2/b/115638.jpg");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items:center;
+      justify-content: center;
+      font-family: 'Nanum Myeongjo', serif;
+} 
+#time
+{
+   color:rgb(10, 155, 22);
+   height: 50vh;
+   font-size: 100px; 
+}
